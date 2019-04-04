@@ -1,1 +1,1 @@
-
+var element = getFirstSelector(selector); 
